@@ -1,4 +1,4 @@
-# Project Name
+# Advanced Regression: Housing Price Prediction Project
 > Outline a brief description of your project.
 
 
